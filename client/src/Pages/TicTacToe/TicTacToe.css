@@ -1,0 +1,28 @@
+.container {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+
+table td {
+	border: 1px solid grey;
+	width: 100px;
+	height: 100px;
+}
+table td:hover {
+	cursor: pointer;
+}
+.button{
+    cursor: pointer;
+    text-decoration: none;
+    margin: 20px;
+    color: black;
+}
+.back_button_position{
+    cursor: pointer;
+    text-decoration: none;
+   
+}
+
+ 
